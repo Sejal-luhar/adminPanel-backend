@@ -22,7 +22,6 @@ const Register = () => {
       alert('Registration failed');
     }
   };
-
   return (
     <>
     <Navbar/>
